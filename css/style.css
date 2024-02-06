@@ -9720,3 +9720,11 @@ textarea.form-control {
 #circularProfile{
   border-radius: 80% !important;
 }
+
+/* Head Vivek Gupta */
+#gradient-text {
+  background: linear-gradient(to right, #800080, #a020f0); /* Adjust the color stops as needed */
+  background-clip: text;
+  color: transparent;
+  text-fill-color: transparent;
+}
